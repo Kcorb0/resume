@@ -18,19 +18,13 @@
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
+\usepackage{ragged2e}
 \input{glyphtounicode}
 
 
 %----------FONT OPTIONS----------
-% sans-serif
-% \usepackage[sfdefault]{FiraSans}
-%\usepackage[sfdefault]{roboto}
-% \usepackage[sfdefault]{noto-sans}
-% \usepackage[default]{sourcesanspro}
+\usepackage[sfdefault]{roboto}
 
-% serif
-% \usepackage{CormorantGaramond}
-% \usepackage{charter}
 
 
 
@@ -212,4 +206,3 @@
 
 %-------------------------------------------
 \end{document}
-
